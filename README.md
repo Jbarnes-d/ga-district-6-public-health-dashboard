@@ -94,12 +94,13 @@ The dashboard updates automatically when a different county is selected, allowin
 - Dynamic KPIs summarize key demographic, socioeconomic, and health indicators.
 - County comparison tables provide additional context across District 6.
 - Raw and cleaned datasets are included to demonstrate the complete data preparation workflow.
-
+  
 ---
 
-## Author
+## Disclaimer
 
-**Josiah Barnes**
+This project was developed as part of my Public Health Information Database Internship (PHIDI) with the Georgia Department of Public Health, East Central Health District (District 6).
 
-MPH – Health Informatics  
-MS – Comparative Biomedical Sciences
+The dashboard was created for educational and portfolio purposes and does not represent an official publication, policy statement, or position of the Georgia Department of Public Health.
+
+All data were obtained from publicly available sources referenced throughout the project. Any analyses, visualizations, and interpretations presented in this repository are my own and are intended solely to demonstrate skills in public health data analysis, dashboard development, and data visualization.
